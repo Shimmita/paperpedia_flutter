@@ -19,7 +19,7 @@ class _PaperPediaMainState extends State<PaperPediaMain> {
           useMaterial3: true),
       home:const SplashMain(), //was splash
       title: "PaperPedia",
-      debugShowCheckedModeBanner: false,
+      debugShowCheckedModeBanner: true,
     );
   }
 }
